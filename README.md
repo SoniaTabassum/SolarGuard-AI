@@ -3,8 +3,7 @@
 Integrated AI Project (Machine Learning, Deep Learning and Computer Vision)
 BS Artificial Intelligence, 5th Semester, Group A
 
-**Built by:** Group A (3 students), see the [Team](#10-team) section
-**Platform:** Google Colab | **Language:** Python
+ **Platform:** Google Colab | **Language:** Python
 
 ---
 
@@ -108,16 +107,6 @@ Accuracy, precision, recall, F1-score (macro), confusion matrix, and learning cu
 |---|---|
 | `SolarguardAI_Project.ipynb` | Main notebook: data exploration, preprocessing, ML and CNN baselines |
 | `README.md` | Project description (this file) |
-
-## 10. Team
-
-This project was built as a group of three students:
-
-- **Sadia Saleem**: computer vision and visuals
-- **Noor Fatima**: deep learning and web app
-- **Sonia Tabassum**: machine learning and evaluation
-
-Each member leads one area, and all three work together on the full pipeline and the report.
 
 ## 11. Limitations and Future Work
 
