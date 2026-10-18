@@ -71,14 +71,14 @@ Accuracy, precision, recall, F1-score (macro), confusion matrix, and learning cu
 
 | Model | Validation Accuracy | Validation Macro-F1 |
 |---|---|---|
-| Random Forest | _add result_ | _add result_ |
-| SVM | _add result_ | _add result_ |
-| KNN | _add result_ | _add result_ |
-| CNN (baseline) | _add result_ | _add result_ |
-| CNN (deeper) | _add result_ | _add result_ |
-| CNN (no dropout) | _add result_ | _add result_ |
-| CNN (more epochs) | _add result_ | _add result_ |
-| VGG16 (transfer learning) | _planned_ | _planned_ |
+| Random Forest | 0.638 | 0.615 |
+| SVM | 0.615 | 0.612 |
+| KNN | 0.308 | 0.234 |
+| CNN (baseline) | 0.623 | 0.606 |
+| CNN (deeper) | 0.600 | 0.591 |
+| CNN (no dropout) | in progress | in progress |
+| CNN (more epochs) | in progress | in progress |
+| VGG16 (transfer learning) | planned | planned |
 
 ## 7. Project Status
 
